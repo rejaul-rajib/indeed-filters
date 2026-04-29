@@ -65,7 +65,6 @@ All filtering is done by constructing an Indeed search URL with query parameters
 
 > Also check out the job search tools for other platforms:
 > - 🔗 [LinkedIn Job Search](https://github.com/yourusername/linkedin-filters)
-> - 🟢 [Glassdoor Job Search](https://github.com/yourusername/glassdoor-jobs)
 
 ---
 
