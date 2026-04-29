@@ -4,7 +4,8 @@ A clean, client-side Indeed job search filter tool — no logins, no tracking, n
 
 Build a filtered Indeed job search URL instantly and open it directly in your browser.
 
-**[🔎 Live Demo →](https://rejaul-rajib.github.io/indeed-filters/)/**
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![Live Demo](https://img.shields.io/badge/live%20demo-GitHub%20Pages-2ea44f.svg)](https://rejaul-rajib.github.io/indeed-filters/)
 
 ---
 
