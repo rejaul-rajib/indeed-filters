@@ -64,7 +64,7 @@ All filtering is done by constructing an Indeed search URL with query parameters
 ## Sister Projects
 
 > Also check out the job search tools for other platforms:
-> - 🔗 [LinkedIn Job Search](https://github.com/yourusername/linkedin-filters)
+> - 🔗 [LinkedIn Job Search](https://rejaul-rajib.github.io/linkedin-filters/)
 
 ---
 
